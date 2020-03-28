@@ -4,7 +4,7 @@ Welcome to the World Of Docs
 
 goal,....
 
-one :doc: `one`
+one :role:`one<www.google.com>`
 
 .. warning::
   lets warn them
