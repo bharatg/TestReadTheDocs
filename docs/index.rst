@@ -3,4 +3,8 @@ Welcome to the World Of Docs
 ##################################
 
 goal,....
-:doc: `one`
+
+one :doc: `one`
+
+.. warning::
+  lets warn them
